@@ -1,2 +1,8 @@
-print("Welcome to my Generative AI Engineer Roadmap 🚀")
-print("Day 1 - Python Virtual Environment")
+def main():
+    print("=" * 50)
+    print("Wlecome to my Generative AI journey")
+    print("Author : Siddharth")
+    print("=" * 50)
+    
+if __name__ == "__main__":
+    main()

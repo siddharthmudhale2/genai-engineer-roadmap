@@ -1,4 +1,4 @@
-# Commands Used
+# Day 1 Commands
 
 ## Create Virtual Environment
 
@@ -6,40 +6,58 @@
 python -m venv venv
 ```
 
-## Activate
+---
 
-### Windows CMD
-
-```bash
-venv\Scripts\activate
-```
-
-### PowerShell
+## Activate (Windows PowerShell)
 
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
 
-## Check Python Version
+---
 
-```bash
-python --version
+## Activate (CMD)
+
+```cmd
+venv\Scripts\activate
 ```
 
-## Check Installed Packages
-
-```bash
-pip list
-```
-
-## Freeze Packages
-
-```bash
-pip freeze > requirements.txt
-```
+---
 
 ## Deactivate
 
 ```bash
 deactivate
+```
+
+---
+
+## Install Package
+
+```bash
+pip install requests
+```
+
+---
+
+## Show Installed Packages
+
+```bash
+pip list
+```
+
+---
+
+## Save Dependencies
+
+```bash
+pip freeze > requirements.txt
+```
+
+---
+
+## Check Python Version
+
+```bash
+python --version
 ```

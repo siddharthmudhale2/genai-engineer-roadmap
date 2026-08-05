@@ -1,50 +1,36 @@
-# Day 01 - Python Virtual Environments
+# Day 01 – Python Virtual Environments
 
-## Objective
+## 📌 Objective
 
-Learn why virtual environments are essential for Python and AI projects.
+Learn how professional Python projects manage dependencies using virtual environments.
 
----
-
-## Topics Covered
+## 📚 Topics Covered
 
 - Python
-- pip
 - PyPI
-- Dependencies
-- Virtual Environments
-
----
-
-## Project
-
-Created my first professional Python project structure.
-
----
-
-## Files
-
-- hello.py
-- notes.md
-- commands.md
-
----
-
-## Output
-
-(Add Screenshot Here)
-
----
-
-## What I Learned
-
-Today I learned how professional Python projects isolate dependencies using virtual environments. This ensures that different projects can use different library versions without conflicts.
-
----
-
-## Skills
-
-- Python
 - pip
-- Virtual Environment
-- Project Structure
+- Virtual Environments
+- requirements.txt
+
+## 💻 Practical
+
+Created a professional project structure and executed the first Python program.
+
+## 📂 Files
+
+- docs/notes.md
+- commands.md
+- src/hello.py
+- requirements.txt
+
+## 🧠 What I Learned
+
+Today I learned why virtual environments are essential in professional Python development. I understood how they isolate project dependencies and prevent version conflicts.
+
+## 🤖 GenAI Connection
+
+Every Generative AI project—whether it uses OpenAI, Hugging Face, LangChain, or FastAPI—starts with a properly configured virtual environment.
+
+## 🚀 Next Step
+
+Day 2 – HTTP, REST APIs & JSON
