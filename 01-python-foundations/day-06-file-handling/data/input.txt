@@ -1,0 +1,3 @@
+Generative AI is transforming software development.
+Python is widely used for AI engineering.
+I am learning Generative AI step by step.
