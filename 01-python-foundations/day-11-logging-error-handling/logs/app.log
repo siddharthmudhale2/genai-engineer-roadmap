@@ -1,0 +1,14 @@
+2026-08-22 07:42:18,074 | INFO | __main__ | Application started
+2026-08-22 07:42:18,074 | ERROR | __main__ | Calculation failed
+Traceback (most recent call last):
+  File "E:\genai-engineer-roadmap\01-python-foundations\day-11-logging-error-handling\src\exceptions_demo.py", line 39, in main
+    result = divide_numbers(
+        100,
+        0
+    )
+  File "E:\genai-engineer-roadmap\01-python-foundations\day-11-logging-error-handling\src\exceptions_demo.py", line 24, in divide_numbers
+    raise ValueError(
+        "The denominator cannot be zero."
+    )
+ValueError: The denominator cannot be zero.
+2026-08-22 07:42:18,076 | INFO | __main__ | Application finished
